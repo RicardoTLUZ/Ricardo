@@ -11,4 +11,4 @@ Olá, Eu sou o Ricardo!
   <img align="center" alt="Ricardo-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
-<img align="center" alt="Ricardo-Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg">
+
