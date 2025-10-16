@@ -5,5 +5,9 @@ Olá, Eu sou o Ricardo!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoTLUZ&show_icons=true&theme=radical" />
 </a>
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
+  ### Ferramentas e Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ricardo-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+</div>
