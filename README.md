@@ -1,6 +1,11 @@
-Olá, Eu sou o Ricardo!
+<h1 align="center">Olá, eu sou o Ricardo! 👋</h1>
 
- - Estudo análise de dados
+### Sobre Mim
+- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas na Estácio.
+- 📊 Focado em aprender Análise de Dados
+- 🌱 Atualmente explorando projetos com SQL (PostgreSQL) Excel e Python
+- 📫 Você pode me encontrar em: ricardostudyy@gmail.com
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoTLUZ&show_icons=true&theme=radical" />
 </a>
