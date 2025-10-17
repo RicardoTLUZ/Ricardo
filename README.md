@@ -2,8 +2,8 @@
 
 ### Sobre Mim
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas na Estácio.
-- 📊 Focado em aprender Análise de Dados
-- 🌱 Atualmente explorando projetos com SQL (PostgreSQL) Excel e Python
+- 📊 Apaixonado por dados
+- 🌱 Atualmente fazendo projetos com SQL (PostgreSQL) Excel e Python
 - 📫 Você pode me encontrar em: ricardostudyy@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
